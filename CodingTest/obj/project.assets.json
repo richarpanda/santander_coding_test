@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\OneDrive\\Documentos\\GitSources\\santander_coding_test\\CodingTest\\CodingTest\\CodingTest.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\OneDrive\\Documentos\\GitSources\\santander_coding_test\\CodingTest\\CodingTest.csproj",
       "projectName": "CodingTest",
-      "projectPath": "C:\\Users\\richa\\OneDrive\\Documentos\\GitSources\\santander_coding_test\\CodingTest\\CodingTest\\CodingTest.csproj",
+      "projectPath": "C:\\Users\\richa\\OneDrive\\Documentos\\GitSources\\santander_coding_test\\CodingTest\\CodingTest.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richa\\OneDrive\\Documentos\\GitSources\\santander_coding_test\\CodingTest\\CodingTest\\obj\\",
+      "outputPath": "C:\\Users\\richa\\OneDrive\\Documentos\\GitSources\\santander_coding_test\\CodingTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
